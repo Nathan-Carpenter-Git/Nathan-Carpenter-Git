@@ -19,7 +19,7 @@ I'm passionate about creating immersive gaming experiences and robust desktop ap
 - C++ | C# | Python
 - Git | GitHub | Perforce
 
-## 🌐 Connect with Me:
+## Connect with Me:
 Let's collaborate and level up our development skills together! Feel free to reach out:
 - 📧 Email: nathancarpenterbusiness@gmail.com
 - 🔗 LinkedIn: [Link](https://www.linkedin.com/in/nathan-b-carpenter/)
