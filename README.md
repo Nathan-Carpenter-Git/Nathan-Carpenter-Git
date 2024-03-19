@@ -1,23 +1,25 @@
 # About me
 👋 Hi, I'm Nathan Carpenter!
 
-🎮 Game Developer | 🚀 Software Engineer
+🚀 Full-Stack Developer | 🎮 Game Developer
 
-I'm passionate about creating immersive gaming experiences and robust desktop applications. Here's a bit about what I love to do:
+I'm passionate about creating immersive gaming experiences and robust web applications. Here's a bit about what I love to do:
+
+## Web Applications (Front-end):
+- 💻 Using HTMl, CSS, and JavaScript as a base for my web applications.
+- 🌐 Comfortable with boostrap, JQuery, and React.js.
+- 💡 Familiar with Razor syntax as well as building Blazor web applications.
+
+## Web Applications (Back-end):
+- 🔧 Professional-level C# with understanding and implimenting SOLID, DRY, YAGNI, and KISS design patterns.
+- 💡 Know how to create APIs and how to access APIs for streamlined web apps.
+- 💻 Communicates with databases using MVC and Entity Framework with DBs such as Azure Cosmos, SQL Server, and PostgreSQL.
+- 💾 Industry-level workflow using repo services like Git, GitHub, and GitLabs.
 
 ## Game Development:
 - 🕹️ I specialize in game development using Unity and Unreal Engine.
-- 💡 Turning ideas into interactive and visually stunning worlds is my forte.
-- 🌐 Currently exploring the endless possibilities of virtual realms.
-
-## Desktop Applications:
-- 💻 Proficient in C++, C#, and Python for crafting efficient and user-friendly desktop applications.
-- 🔧 Turning complex problems into elegant solutions through code.
-
-## Tech Stack:
-- Unity | Unreal Engine
-- C++ | C# | Python
-- Git | GitHub | Perforce
+- 💡 Familiar with 2D and 3D workflows using common patterns (singleton, pooling, observer).
+- 🌐 Involved in game jams and created games that created sales.
 
 ## Connect with Me:
 Let's collaborate and level up our development skills together! Feel free to reach out:
