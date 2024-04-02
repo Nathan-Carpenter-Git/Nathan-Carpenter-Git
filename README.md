@@ -8,7 +8,7 @@ I'm passionate about creating immersive gaming experiences and robust web applic
 ## Web Applications (Front-end):
 - 💻 Using HTMl, CSS, and JavaScript as a base for my web applications.
 - 🌐 Comfortable with Boostrap, JQuery, and Angular.
-- 💡 Familiar with Razor syntax as well as building Blazor web applications.
+- 💡 Familiar with Razor syntax for building Blazor web applications.
 
 ## Web Applications (Back-end):
 - 🔧 Professional-level C# with understanding and implimenting SOLID, DRY, YAGNI, and KISS design patterns.
