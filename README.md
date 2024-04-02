@@ -14,7 +14,7 @@ I'm passionate about creating immersive gaming experiences and robust web applic
 - 🔧 Professional-level C# with understanding and implimenting SOLID, DRY, YAGNI, and KISS design patterns.
 - 💡 Know how to create APIs and how to access APIs for streamlined web apps.
 - 💻 Communicates with databases using MVC and Entity Framework with DBs such as Azure Cosmos, SQL Server, and PostgreSQL.
-- 💾 Industry-level workflow using repo services like Git, GitHub, and GitLabs.
+- 💾 Industry-level workflow using repository services like Git, GitHub, and GitLabs.
 
 ## Game Development:
 - 🕹️ I specialize in game development using Unity and Unreal Engine.
