@@ -19,7 +19,7 @@ I'm passionate about creating immersive gaming experiences and robust web applic
 ## Game Development:
 - 🕹️ I specialize in game development using Unity and Unreal Engine.
 - 💡 Familiar with 2D and 3D workflows using common patterns (singleton, pooling, observer).
-- 🌐 Involved in game jams and created games that created sales.
+- 🌐 Involved in game jams and created games that produced sales.
 
 ## Connect with Me:
 Let's collaborate and level up our development skills together! Feel free to reach out:
