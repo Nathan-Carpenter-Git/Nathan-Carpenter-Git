@@ -1,7 +1,7 @@
 # About me
 👋 Hi, I'm Nathan Carpenter!
 
-🚀 Full-Stack Developer | 🎮 Game Developer
+👨‍💻 Tech Enthusiast | 🚀 Web Developer | 🎮 Game Developer
 
 I'm passionate about creating immersive gaming experiences and robust web applications. Here's a bit about what I love to do:
 
