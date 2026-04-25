@@ -23,7 +23,7 @@ I'm passionate about creating immersive gaming experiences and robust web applic
 
 ## Connect with Me:
 Let's collaborate and level up our development skills together! Feel free to reach out:
-- 📧 Email: nathancarpenterbusiness@gmail.com
+- 📧 Email: carpenternathan6@gmail.com
 - 🔗 LinkedIn: [Link](https://www.linkedin.com/in/nathan-b-carpenter/)
 - 🕹️ Itch.io: [Link](https://pixel-dust-studio.itch.io)
 
